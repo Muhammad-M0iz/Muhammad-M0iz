@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **muhammadmoiz300@gmail.com**
 
-- ⚡ Fun fact **Even Ai Model can't code UI in jetpackCompose as it Materail 3 is just a year Old**
+- ⚡ Fun fact **Even Ai Model can't code UI in jetpackCompose as M3 is just a year Old**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
