@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-m0iz" alt="muhammad-m0iz" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin, Js, React,React Native**
+- 🌱 I’m currently learning **Kotlin, Js, ,C++**
 
-- 💬 Ask me about **Kotlin and maybe Java**
+- 💬 Ask me about **Kotlin and C++**
 
 - 📫 How to reach me **muhammadmoiz300@gmail.com**
-
-- ⚡ Fun fact **Even Ai Model can't code UI in jetpackCompose as M3 is just a year Old**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
