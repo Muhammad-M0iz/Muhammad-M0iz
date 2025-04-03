@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Moiz</h1>
-<h3 align="center">Android Dev from Pakistan</h3>
+<h3 align="center">Student from Pakistan</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-m0iz" alt="muhammad-m0iz" /></a> </p>
 
